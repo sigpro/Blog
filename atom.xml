@@ -4,7 +4,7 @@
   <title><![CDATA[Wayne's Blog]]></title>
   <link href="http://sigpro.github.com/Blog/atom.xml" rel="self"/>
   <link href="http://sigpro.github.com/Blog/"/>
-  <updated>2012-10-13T14:58:46+08:00</updated>
+  <updated>2012-10-13T15:15:00+08:00</updated>
   <id>http://sigpro.github.com/Blog/</id>
   <author>
     <name><![CDATA[Wayne]]></name>
@@ -12,5 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
+  Liquid error: incompatible character encodings: UTF-8 and GBK
 </feed>
