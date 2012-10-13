@@ -1,0 +1,7 @@
+---
+layout: post
+title: "newtest"
+date: 2012-10-13 12:00
+comments: true
+categories: 
+---

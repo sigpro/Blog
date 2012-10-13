@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://WangWayne.github.com/Blog
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://sigpro.github.com/Blog
+title: Wayne's Blog
+subtitle: nice work
+author: Wayne
 simple_search: http://google.com/search
 description:
 

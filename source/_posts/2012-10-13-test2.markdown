@@ -1,0 +1,7 @@
+---
+layout: post
+title: "test2"
+date: 2012-10-13 01:45
+comments: true
+categories: 
+---
