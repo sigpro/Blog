@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://sigpro.com/blog/2012/10/13/test/</loc>
+        <lastmod>2012-10-13T01:11:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sigpro.com/blog/2012/10/13/test2/</loc>
+        <lastmod>2012-10-13T01:45:57+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sigpro.com/blog/2012/10/13/test3/</loc>
+        <lastmod>2012-10-13T11:25:37+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sigpro.com/blog/2012/10/13/newtest/</loc>
+        <lastmod>2012-10-13T12:00:48+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sigpro.com/blog/archives/</loc>
+        <lastmod>2012-10-13T12:00:48+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sigpro.com/</loc>
+        <lastmod>2012-10-13T12:00:48+08:00</lastmod>
+    </url>
+</urlset>
